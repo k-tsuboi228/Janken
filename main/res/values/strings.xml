@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">じゃんけんゲームVer.2</string>
+
+    <string-array name="count_items">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="win">あなたの勝ち!!</string>
+    <string name="lose">あなたの負け..</string>
+    <string name="draw">引き分け</string>
+    <string name="next">次へ</string>
+    <string name="result">結果へ</string>
+    <string name="result_text">%d勝%d負%d引き分け</string>
+
+</resources>
